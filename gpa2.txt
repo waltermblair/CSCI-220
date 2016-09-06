@@ -1,0 +1,6 @@
+<bound method Student.getName of <gpa.Student object at 0x105fb0550>>	<bound method Student.getHours of <gpa.Student object at 0x105fb0550>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb0550>>
+<bound method Student.getName of <gpa.Student object at 0x105fb05c0>>	<bound method Student.getHours of <gpa.Student object at 0x105fb05c0>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb05c0>>
+<bound method Student.getName of <gpa.Student object at 0x105fb05f8>>	<bound method Student.getHours of <gpa.Student object at 0x105fb05f8>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb05f8>>
+<bound method Student.getName of <gpa.Student object at 0x105fb0630>>	<bound method Student.getHours of <gpa.Student object at 0x105fb0630>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb0630>>
+<bound method Student.getName of <gpa.Student object at 0x105fb0588>>	<bound method Student.getHours of <gpa.Student object at 0x105fb0588>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb0588>>
+<bound method Student.getName of <gpa.Student object at 0x105fb0668>>	<bound method Student.getHours of <gpa.Student object at 0x105fb0668>>	<bound method Student.getQPoints of <gpa.Student object at 0x105fb0668>>
